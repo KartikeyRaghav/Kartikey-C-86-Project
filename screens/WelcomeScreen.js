@@ -16,7 +16,7 @@ export default class App extends React.Component {
     super();
     this.state = {
       emailId: '',
-      password: '123456',
+      password: '',
       clicked: false,
       isModalVisible: false,
       firstName: '',
